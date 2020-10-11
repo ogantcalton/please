@@ -4,3 +4,6 @@
 [submodule "brooks"]
 	path = brooks
 	url = https://apps.apple.com/us/watch/id1069511734
+[submodule "aobeeup"]
+	path = aobeeup
+	url = https://ogantcalton@github.com/ogantcalton/please
